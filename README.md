@@ -6,7 +6,7 @@ Software Developer
 
 * 🌍  I'm based in Amman - Jordan
 * ✉️  You can contact me at [omar.kh.hamdan@gmail.com](mailto:omar.kh.hamdan@gmail.com)
-* 🚀  I'm currently working on [Tahaluf Al Emarat Technical Solutions](http://www.tahaluf.ae/)
+* 🚀  I'm currently working on [Epya Solutions](https://www.epyasolutions.com/)
 
 <a href="https://www.github.com/OmarHamdan95" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/OmarHamdan95?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
